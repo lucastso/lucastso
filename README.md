@@ -1,6 +1,14 @@
-## What's up! I'm Lucas Tassi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😎
+## What's up! I'm Lucas Tassi!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😎
 
 ![Badge](https://img.shields.io/github/followers/lucastso?style=social)<br/>
+
+What I love:
+
+- 🎵 Music
+- ✨ Design user interfaces and experiences
+- 👨🏻‍💻 Web development
+
+About me:
 
 - 🌱 I’m currently learning JavaScript 👨🏻‍💻 and Design ✨
 - 🤔 I’m looking for help with learning React.js
