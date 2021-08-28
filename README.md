@@ -4,14 +4,12 @@
 
 What I love:
 
-- 🎵 Music
-- ✨ Design user interfaces and experiences
+- ✨ Design user interfaces
 - 👨🏻‍💻 Web development
 
 About me:
 
 - 🌱 I’m currently learning JavaScript 👨🏻‍💻 and Design ✨
-- 🤔 I’m looking for help with learning React.js
 - 📫 How to reach me: **aboutlucastso@gmail.com**
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=lucastso&hide=contribs,issues/>
