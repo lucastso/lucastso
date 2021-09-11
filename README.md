@@ -5,11 +5,11 @@
 What I love:
 
 - ✨ Design user interfaces
-- 👨🏻‍💻 Web development
+- 👨🏻‍💻 Fullstack development
 
 About me:
 
-- 🌱 I’m currently learning JavaScript 👨🏻‍💻 and Design ✨
+- 🌱 I’m currently learning Laravel 👨🏻‍💻 and UI Design ✨
 - 📫 How to reach me: **aboutlucastso@gmail.com**
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=lucastso&hide=contribs,issues/>
