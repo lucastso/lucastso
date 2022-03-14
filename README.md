@@ -9,7 +9,7 @@ What I love:
 
 About me:
 
-- 🌱 I’m currently learning React Native for Mobile, Laravel and React for web 👨,🏻‍💻 and UI Design ✨
+- 🌱 I’m currently learning React Native for Mobile, Laravel and React for web 😎, and UI Design ✨
 - 📫 How to reach me: **aboutlucastso@gmail.com**
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=lucastso&hide=contribs,issues/>
