@@ -1,4 +1,4 @@
-## What's up! I'm Lucas Tassi!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😎
+## What's up! I'm Lucas Tassi! 😎
 
 ![Badge](https://img.shields.io/github/followers/lucastso?style=social)<br/>
 
@@ -9,7 +9,7 @@ What I love:
 
 About me:
 
-- 🌱 I’m currently learning React Native for Mobile, Laravel and React for web 😎, and UI Design ✨
+- 🌱 I’m currently working with Web Development 😎 and UI Design, making my path on React! ✨
 - 📫 How to reach me: **aboutlucastso@gmail.com**
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=lucastso&hide=contribs,issues/>
