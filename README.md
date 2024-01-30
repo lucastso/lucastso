@@ -7,7 +7,6 @@
 About me:
 
 - 🌱 I’m currently working with Full-stack development
-- 🚀 I'm founder of Woogon, we build digital platforms
 - 📫 How to reach me: **lucastassisouza@gmail.com**
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=lucastso&hide=contribs,issues/>
